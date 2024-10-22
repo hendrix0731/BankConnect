@@ -20,13 +20,13 @@ This Banking Management System is designed to manage customer accounts, transact
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/hendrix0731/Banking-Management-System.git
-   cd Banking-Management-System
+   git clone https://github.com/hendrix0731/BankConnect.git
+   
 ### Compile the code:
-- g++ -o banking_system banking_system.cpp
+- g++ -o BankConnect BankConnect.cpp
 
 ### Run the program: 
-- ./banking_system
+- ./BankConnect
 
 ## Usage
 - Upon starting the program, users will be presented with a menu to choose from:
