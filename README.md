@@ -29,12 +29,12 @@ This Banking Management System is designed to manage customer accounts, transact
 - ./banking_system
 
 ## Usage
-- **Upon starting the program, users will be presented with a menu to choose from:
+- Upon starting the program, users will be presented with a menu to choose from:
 
 - Create Account
 - Deposit Money
 - Withdraw Money
 - Check Balance
 - View Transaction History
-- Exit**
+- Exit 
 
