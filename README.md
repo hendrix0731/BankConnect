@@ -21,14 +21,11 @@ BankConnect is a Banking Management System designed to manage customer accounts,
    ```bash
    git clone https://github.com/hendrix0731/BankConnect.git
 2. Navigate to the project directory:
-   - '''bash
-   cd BankConnect
+   - cd BankConnect
 3. Compile the code:
-   - '''bash
-   g++ -o BankConnect BankConnect.cpp
+   - g++ -o BankConnect BankConnect.cpp
 4. Run the program:
-   - '''bash
-   ./BankConnect
+   - ./BankConnect
 
 ## Usage
 ### Upon starting the program, users will be presented with a menu to choose from:
