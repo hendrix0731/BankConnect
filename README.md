@@ -20,7 +20,7 @@ This Banking Management System is designed to manage customer accounts, transact
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Banking-Management-System.git
+   git clone https://github.com/hendrix0731/Banking-Management-System.git
    cd Banking-Management-System
 ### Compile the code:
 - g++ -o banking_system banking_system.cpp
@@ -31,10 +31,10 @@ This Banking Management System is designed to manage customer accounts, transact
 ## Usage
 - **Upon starting the program, users will be presented with a menu to choose from:
 
-Create Account
-Deposit Money
-Withdraw Money
-Check Balance
-View Transaction History
-Exit**
+- Create Account
+- Deposit Money
+- Withdraw Money
+- Check Balance
+- View Transaction History
+- Exit**
 
