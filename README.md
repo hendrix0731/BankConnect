@@ -23,13 +23,13 @@ BankConnect is a Banking Management System designed to manage customer accounts,
    
 2. Navigate to the project directory:
 3. ```bash
-   - cd BankConnect
+   cd BankConnect
 4. Compile the code:
 5. ```bash
-   - g++ -o BankConnect BankConnect.cpp
+    g++ -o BankConnect BankConnect.cpp
 6. Run the program:
 7. ```bash
-   - ./BankConnect
+    ./BankConnect
 
 ## Usage
 ### Upon starting the program, users will be presented with a menu to choose from:
