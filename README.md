@@ -1,8 +1,7 @@
 # BankConnect
-# Banking Management System
 
 ## Overview
-This Banking Management System is designed to manage customer accounts, transactions, and banking operations efficiently. The system supports various functionalities, including account creation, balance inquiries, deposits, withdrawals, and transaction history.
+BankConnect is a Banking Management System designed to manage customer accounts, transactions, and banking operations efficiently. The system supports various functionalities, including account creation, balance inquiries, deposits, withdrawals, and transaction history.
 
 ## Features
 - **Account Management:** Create and manage customer accounts with unique account numbers.
@@ -21,20 +20,21 @@ This Banking Management System is designed to manage customer accounts, transact
 1. Clone the repository:
    ```bash
    git clone https://github.com/hendrix0731/BankConnect.git
-   
-### Compile the code:
-- g++ -o BankConnect BankConnect.cpp
-
-### Run the program: 
-- ./BankConnect
+2. Navigate to the project directory:
+   '''bash
+   cd BankConnect
+3. Compile the code:
+   '''bash
+   g++ -o BankConnect BankConnect.cpp
+4. Run the program:
+   '''bash
+   ./BankConnect
 
 ## Usage
-- Upon starting the program, users will be presented with a menu to choose from:
-
-- Create Account
-- Deposit Money
-- Withdraw Money
-- Check Balance
-- View Transaction History
-- Exit 
-
+### Upon starting the program, users will be presented with a menu to choose from:
+- 1. Create Account
+- 2. Deposit Money
+- 3. Withdraw Money
+- 4. Check Balance
+- 5. View Transaction History
+- 6. Exit
