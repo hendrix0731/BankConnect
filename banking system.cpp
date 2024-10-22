@@ -439,17 +439,17 @@ void welcome()
 {
 	std::cout << "\t\t|-----------------------------------------------|" << "\n";
 	std::cout << "\t\t|                                               |" << "\n"; 
-	std::cout << "\t\t|     WELCOME TO Harsh Joshi BANKING SYSTEM        |" << "\n";
+	std::cout << "\t\t|     WELCOME TO Harsh Joshi BankConnect        |" << "\n";
 	std::cout << "\t\t|                                               |" << "\n"; 
 	std::cout << "\t\t|-----------------------------------------------|" << "\n";
-	std::cout << "\t\t|\t Choose your option:\t                |" << "\n"; 
+	std::cout << "\t\t|\t Choose your option:\t                       |" << "\n"; 
 	std::cout << "\t\t|-----------------------------------------------|" << "\n";
 	std::cout << "\t\t|                                               |" << "\n"; 
-	std::cout << "\t\t|\t\t 1) ADMINISTRATOR               |" << "\n"; 
+	std::cout << "\t\t|\t\t 1) ADMINISTRATOR                          |" << "\n"; 
 	std::cout << "\t\t|                                               |" << "\n"; 
-	std::cout << "\t\t|\t\t 2) USER                        |" << "\n"; 
+	std::cout << "\t\t|\t\t 2) USER                                   |" << "\n"; 
 	std::cout << "\t\t|                                               |" << "\n"; 
-	std::cout << "\t\t|\t\t 3) EXIT                        |" << "\n"; 
+	std::cout << "\t\t|\t\t 3) EXIT                                   |" << "\n"; 
 	std::cout << "\t\t|-----------------------------------------------|" << "\n";
 
 	int choice;
