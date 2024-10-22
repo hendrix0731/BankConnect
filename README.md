@@ -9,11 +9,15 @@ PIN Management: Users can change their account PIN.
 Balance Inquiry: Check the current balance of an account.
 Account Closure: Close existing accounts.
 Admin Interface: Administrators can view the total number of accounts and details for all accounts.
+
+
 Technologies Used
 C++
 Standard Template Library (STL) for data management (vector)
 Basic console I/O for user interaction
 Getting Started
+
+
 Prerequisites
 A C++ compiler (e.g., g++, Visual Studio)
 Basic understanding of C++ programming
@@ -30,6 +34,7 @@ bash
 Copy code
 g++ -o BankConnect banking_system.cpp
 Run the Application:
+
 
 Usage
 Upon running the program, users are presented with a welcome menu where they can choose to log in as an administrator, user, or exit the application.
