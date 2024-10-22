@@ -1,42 +1,40 @@
 # BankConnect
-Overview:
-This project implements a simple banking system in C++ that allows users to create accounts, deposit and withdraw money, change their PIN, and perform balance inquiries. It also includes an administrator interface to view the total number of accounts and details about all accounts.
+# Banking Management System
 
-Features:
-Account Management: Create savings or current accounts with single or joint holders.
-Deposit and Withdraw: Users can deposit and withdraw money from their accounts.
-PIN Management: Users can change their account PIN.
-Balance Inquiry: Check the current balance of an account.
-Account Closure: Close existing accounts.
-Admin Interface: Administrators can view the total number of accounts and details for all accounts.
+## Overview
+This Banking Management System is designed to manage customer accounts, transactions, and banking operations efficiently. The system supports various functionalities, including account creation, balance inquiries, deposits, withdrawals, and transaction history.
 
+## Features
+- **Account Management:** Create and manage customer accounts with unique account numbers.
+- **Deposit and Withdrawal:** Facilitate easy deposits and withdrawals, ensuring account balances are updated in real-time.
+- **Balance Inquiry:** Allow customers to check their account balance.
+- **Transaction History:** Keep a record of all transactions for each account.
+- **User Authentication:** Implement secure login and logout functionality for customer accounts.
 
-Technologies Used:
-C++
-Standard Template Library (STL) for data management (vector)
-Basic console I/O for user interaction
-Getting Started
+## Getting Started
 
+### Prerequisites
+- C++ Compiler (e.g., g++, clang++)
+- Basic understanding of C++ and data structures
 
-Prerequisites:
-A C++ compiler (e.g., g++, Visual Studio)
-Basic understanding of C++ programming
-Compilation and Execution
-Clone the Repository:
+### Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/Banking-Management-System.git
+   cd Banking-Management-System
+### Compile the code:
+- g++ -o banking_system banking_system.cpp
 
-bash
-Copy code
-git clone https://github.com/yourusername/BankConnect.git
-cd BankConnect
-Compile the Code:
+### Run the program: 
+- ./banking_system
 
-bash
-Copy code
-g++ -o BankConnect banking_system.cpp
-Run the Application:
+## Usage
+- **Upon starting the program, users will be presented with a menu to choose from:
 
+Create Account
+Deposit Money
+Withdraw Money
+Check Balance
+View Transaction History
+Exit**
 
-Usage:
-Upon running the program, users are presented with a welcome menu where they can choose to log in as an administrator, user, or exit the application.
-Users can navigate through various options to create accounts, manage funds, or check their account details.
-Administrators can view account statistics and details of all accounts created.
