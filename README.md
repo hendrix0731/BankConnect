@@ -1,8 +1,8 @@
 # BankConnect
-Overview
+Overview:
 This project implements a simple banking system in C++ that allows users to create accounts, deposit and withdraw money, change their PIN, and perform balance inquiries. It also includes an administrator interface to view the total number of accounts and details about all accounts.
 
-Features
+Features:
 Account Management: Create savings or current accounts with single or joint holders.
 Deposit and Withdraw: Users can deposit and withdraw money from their accounts.
 PIN Management: Users can change their account PIN.
@@ -11,14 +11,14 @@ Account Closure: Close existing accounts.
 Admin Interface: Administrators can view the total number of accounts and details for all accounts.
 
 
-Technologies Used
+Technologies Used:
 C++
 Standard Template Library (STL) for data management (vector)
 Basic console I/O for user interaction
 Getting Started
 
 
-Prerequisites
+Prerequisites:
 A C++ compiler (e.g., g++, Visual Studio)
 Basic understanding of C++ programming
 Compilation and Execution
@@ -36,7 +36,7 @@ g++ -o BankConnect banking_system.cpp
 Run the Application:
 
 
-Usage
+Usage:
 Upon running the program, users are presented with a welcome menu where they can choose to log in as an administrator, user, or exit the application.
 Users can navigate through various options to create accounts, manage funds, or check their account details.
 Administrators can view account statistics and details of all accounts created.
